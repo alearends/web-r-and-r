@@ -2,7 +2,7 @@ import React from 'react'
 
 const filmografia = () => {
   return (
-    <div>filmografia</div>
+    <div>Hola desde filmografia</div>
   )
 }
 
